@@ -1,0 +1,30 @@
+{
+    "name": {
+        "_content": "John Doe",
+        "_type": "<class 'str'>"
+    },
+    "age": {
+        "_content": 25,
+        "_type": "<class 'int'>"
+    },
+    "address": {
+        "street": {
+            "_content": "123 Main St",
+            "_type": "<class 'str'>"
+        },
+        "city": {
+            "_content": "Exampleville",
+            "_type": "<class 'str'>"
+        },
+        "extra": {
+            "key1": {
+                "_content": "hola",
+                "_type": "<class 'str'>"
+            },
+            "key2": {
+                "_content": "hola2",
+                "_type": "<class 'str'>"
+            }
+        }
+    }
+}
